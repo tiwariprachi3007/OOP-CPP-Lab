@@ -10,6 +10,7 @@ string removeChar(string str,char ch){
         }
     }
     return result; 
+
 }
 
 int main(){
