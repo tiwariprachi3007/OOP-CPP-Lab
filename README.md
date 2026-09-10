@@ -2,7 +2,7 @@
 
 This repository contains the practical programs for:
 
-**PCS307 - Object Oriented Programming with C++ Lab**
+**Object Oriented Programming with C++ Lab**
 
 The programs cover fundamental and advanced concepts of Object-Oriented Programming using C++.
 
