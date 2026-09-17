@@ -1,6 +1,6 @@
 # OOP with C++ Lab
 
-This repository contains the practical programs for:
+This repository contains the practical programs for oop :
 
 **Object Oriented Programming with C++ Lab**
 
